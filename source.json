@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Love Shader",
+    "id":"com.vrchat.love-shader",
+    "url":"https://lovesealreal.github.io/love-shader/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"N/A",
+        "name":"Loveseal",
+        "url":"N/A"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/LovesealReal/love-shader",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
