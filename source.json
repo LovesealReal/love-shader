@@ -1,28 +1,20 @@
 {
-    "name":"Love Shader",
-    "id":"com.vrchat.love-shader",
-    "url":"https://lovesealreal.github.io/love-shader/index.json",
-    "author":{
-        "email":"N/A",
-        "name":"Loveseal",
-        "url":"N/A"
+    "name": "Love Shader",
+    "id": "com.loveseal.loveshader",
+    "url": "https://lovesealreal.github.io/love-shader/index.json",
+    "author": {
+        "email": "",
+        "name": "Loveseal",
+        "url": "https://github.com/LovesealReal"
     },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"https://github.com/LovesealReal/love-shader",
-        "text":"View on GitHub"
+    "description": "A screen-space VRChat avatar shader",
+    "infoLink": {
+        "url": "https://github.com/LovesealReal/love-shader",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
+    "bannerUrl": "banner.png",
+    "githubRepos": [
+        "LovesealReal/love-shader"
     ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+    "packages": []
 }
